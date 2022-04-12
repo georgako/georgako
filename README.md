@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @georgako aka Anastasios Georgakopoulos born on 1979
+- 👋 Hi, I’m @georgako aka Anastasios Georgakopoulos born in 1979. Studied Electrical Engineer and currently I'm working as a system administrator.
 ...
 
 <!---
